@@ -1,2 +1,0 @@
-à partir d'une équation dans un fichier texte, sous forme polynomiale et parenthèsée, créer l'abre
-binaire des cacluls par la méthode polonaise à l'inverse
